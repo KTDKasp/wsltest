@@ -1,0 +1,2 @@
+Hello my dear friends. This is my firsr work at neovim so lets try some coding
+Thats is my first time doing this on my own. i am at my limit
